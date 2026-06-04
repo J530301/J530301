@@ -17,7 +17,7 @@ Full-Stack Web Developer and IT Support professional with experience building sc
 ## 💻 Tech Stack
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass,tailwind,js,ts)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass,tailwind)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=laravel,nodejs)](https://skillicons.dev)
