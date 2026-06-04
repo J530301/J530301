@@ -20,7 +20,7 @@ Full-Stack Web Developer and IT Support professional with experience building sc
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass,tailwind,js,ts)](https://skillicons.dev)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=laravel,nodejs,php)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=laravel,nodejs)](https://skillicons.dev)
 
 ### Programming Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)
