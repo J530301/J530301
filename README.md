@@ -2,61 +2,15 @@
 
 ## 🚀 About Me
 
-Full-Stack Web Developer and IT Support professional with experience building scalable web applications, administrative systems, e-commerce platforms, landing pages, and patient management systems.
-
-💼 Currently working as:
-- IT Officer
-- Zoho Specialist
-- Web Developer
-- IT Support
-
-🎓 BS Computer Science Graduate
+I'm a Full-Stack Web Developer, IT Support professional, and Zoho Specialist who enjoys building scalable web applications, administrative systems, e-commerce platforms, landing pages, and patient management systems. I work across the full development lifecycle — from system design and database management to deployment and ongoing technical support.
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass,tailwind,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass,tailwind,js,ts,laravel,nodejs,php,postgres,mysql,firebase,git,github,vscode,docker)](https://skillicons.dev)
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=laravel,nodejs,php)](https://skillicons.dev)
-
-### Database
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,firebase)](https://skillicons.dev)
-
-### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
-
-### Other Technologies
-- Zoho Creator
-- Zoho Deluge
-- IT Support & Troubleshooting
-- System Deployment
-- Role-Based Access Control (RBAC)
-- REST APIs
-
----
-
-## 🎯 Core Expertise
-
-- Full-Stack Web Development
-- Software Development Lifecycle
-- System Design & Deployment
-- Database Management
-- Technical Support & Troubleshooting
-- Cloud Deployment
-- CRUD Applications
-- Authentication & Authorization
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Next.js
-- Cloud Infrastructure
-- System Architecture
-- AI Integration
+![Zoho Deluge](https://img.shields.io/badge/Zoho_Deluge-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 
 ---
 
@@ -64,7 +18,3 @@ Full-Stack Web Developer and IT Support professional with experience building sc
 
 - LinkedIn: www.linkedin.com/in/jefferson-adlawan-0820473a9
 - Email: jeffersonadlawan@gmail.com
-
----
-
-⭐ Always interested in building impactful software solutions and learning new technologies.
