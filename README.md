@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack Web Developer, IT Support professional, and Zoho Specialist who enjoys building scalable web applications, administrative systems, e-commerce platforms, landing pages, and patient management systems. I work across the full development lifecycle — from system design and database management to deployment and ongoing technical support.
+I'm a Full-Stack Web Developer, IT Support professional, and Zoho Specialist who enjoys building scalable web applications, administrative systems, e-commerce platforms, landing pages, and patient management systems. I work across the full development lifecycle from system design and database management to deployment and ongoing technical support.
 
 ---
 
